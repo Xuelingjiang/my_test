@@ -8,3 +8,4 @@ print(score)
 ss=[]
 s=not ss
 print(s)
+print(s)
